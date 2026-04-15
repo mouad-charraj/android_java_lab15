@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab15</string>
+    <string name="nom_label">Nom :</string>
+    <string name="prenom_label">Prenom :</string>
+    <string name="valider">Valider</string>
+    <string name="id_label">ID Etudiant :</string>
+    <string name="chercher">Chercher</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="hint_nom">Entrer le nom</string>
+    <string name="hint_prenom">Entrer le prénom</string>
+</resources>

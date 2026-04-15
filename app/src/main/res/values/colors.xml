@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mouad_primary">#00FF41</color> <!-- Vert Matrix -->
+    <color name="mouad_accent">#FF003C</color>  <!-- Rouge Néon -->
+    <color name="mouad_bg">#0D0D0D</color>      <!-- Noir Profond -->
+</resources>
